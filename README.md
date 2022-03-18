@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Bildirici</h1>
 <h3 align="center">I am studying at Hacettepe University, Information Management department. I am interest in Front-End Development.</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetbildirici&show_icons=true&locale=en&layout=compact" alt="ahmetbildirici" width="50%"/></p>
+<p><img align="center" src="https://github.com/ahmetbildirici/ahmetbildirici/blob/4446a7f8fab6e499c0f082c4a4ef886faaa4e332/banner.jpg" alt="ahmetbildirici" width="50%"/></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
